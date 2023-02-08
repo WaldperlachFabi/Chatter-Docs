@@ -15,4 +15,4 @@ Also we store and collect data needed for standard operation of Discord-bots, su
 
 ## Data deletion
 
-We can delete all data. You need to contact us by email (**chatter@waldperlachfabi.de**). This can take up to 72 hours!
+We can delete all data. You need to contact us by email ([chatter@waldperlachfabi.de](mailto:chatter@waldperlachfabi.de)). This can take up to 72 hours!
