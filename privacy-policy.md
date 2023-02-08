@@ -9,7 +9,7 @@ If you have any questions or comments about this Privacy Policy, please contact 
 ## **Data we collect**
 
 1. User-id's for anti-spam verification
-2. How often you use commands and what you ask the bot
+2. What you ask the bot(This is stored without any information, who asked it)
 
 Also we store and collect data needed for standard operation of Discord-bots, such as server, activated bot features and events. All data is stored encrypted and is deleted at least every two weeks.
 
