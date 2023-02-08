@@ -1,2 +1,4 @@
 # 📔 Commands
 
+/help Get help!
+
