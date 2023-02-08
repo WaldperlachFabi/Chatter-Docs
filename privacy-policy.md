@@ -4,7 +4,7 @@ These Privacy Policy (“Privacy Policy”) apply to the use of the website and 
 
 This Privacy Policy applies and has effect in respect of all services and other products, software, made available by us, as well as any other online features relating to the website and its content (the “Service(s)”).
 
-If you have any questions or comments about this Privacy Policy, please contact us at **chatter@waldperlachfabi.de**
+If you have any questions or comments about this Privacy Policy, please contact us at our [Discord Support Server](https://discord.gg/x77gzCZAQU) or using the following mail addres: [chatter@waldperlachfabi.de](mailto:chatter@waldperlachfabi.de)
 
 ## **Data we collect**
 
